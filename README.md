@@ -1,6 +1,6 @@
 # stock_performance_analysis
 
-Stock performance analysis for the top 5 stocks of 2023 and their visualization for the comparison in between them. The `API` that is used is yfinance library.
+Stock performance analysis for the top 5 stocks of 2023 and their visualization for the comparison in between them. The `API` that is used is `Yfinance` library.
 
 The stocks used in the analysis of visualization are:
 
