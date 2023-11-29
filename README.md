@@ -11,4 +11,4 @@ Stock performance analysis for the top 5 stocks of 2023 and their visualization 
 5. `TCS` 🏢
 
 - The libraries used in Visualization are : `Matplotlib`, `Plotly`.
-- The time duration used i **3 months**.
+- The time duration used is **3 months**.
